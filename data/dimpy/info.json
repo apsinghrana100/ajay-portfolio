@@ -1,0 +1,29 @@
+{
+  "name": "Dimpy Kapadia",
+  "role": "AI-Driven Full-Stack Engineer",
+  "tagline": [
+    "Architecting scalable backend systems.",
+    "Integrating semantic AI intelligence.",
+    "Engineering premium visual interfaces."
+  ],
+  "heroTitle": [
+    "AI-powered full‑stack",
+    "systems built for",
+    "production scale."
+  ],
+  "heroIntro": "I engineer high-performance full-stack applications, merging robust backend architectures and intelligent AI reasoning layers with beautiful, responsive interfaces. I translate complex systems workflows into intentional, production-ready digital products.",
+  "bio": "I design and build enterprise-grade web platforms combining deterministic AI orchestrations, high Throughout backend APIs, and polished interactive frontends. Based in India, working globally with tech startups and product engineering teams.",
+  "email": "kapadiadimpy5@gmail.com",
+  "location": "India",
+  "resumeUrl": "/api/resume?user=dimpy",
+  "aboutStatement": "I believe in building systems that are robust at the core and intelligent at the surface. I combine secure, reliable AI reasoning with fast, frictionless user experiences, so applications feel powerful under the hood yet effortless to use.",
+  "stats": [
+    { "label": "Industry Experience", "value": "4+ Years" },
+    { "label": "AI Systems Shipped", "value": "6+" },
+    { "label": "Full-Stack Platforms", "value": "9+" }
+  ],
+  "social": {
+    "github": "#",
+    "linkedin": "#"
+  }
+}

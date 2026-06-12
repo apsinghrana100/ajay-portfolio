@@ -1,0 +1,29 @@
+{
+  "name": "Jayraj Kapadia",
+  "role": "Senior Full Stack Engineer | AI Solutions Architect",
+  "tagline": [
+    "Architecting scalable SaaS and enterprise systems.",
+    "Building AI-powered products and multi-agent workflows.",
+    "Delivering cloud-native, production-ready applications."
+  ],
+  "heroTitle": [
+    "AI-powered full-stack",
+    "systems engineered for",
+    "enterprise scale."
+  ],
+  "heroIntro": "I design and build scalable SaaS platforms, enterprise applications, and AI-powered systems. With 8+ years of experience, I specialize in combining robust backend architectures, modern frontend technologies, and advanced AI workflows to deliver high-performance, production-grade products.",
+  "bio": "Senior Full Stack Engineer and AI Solutions Architect with 8+ years of experience delivering SaaS platforms, enterprise applications, and AI-driven products. Skilled in building end-to-end systems across React, Node.js, cloud infrastructure, and LLM-based architectures including RAG, multi-agent workflows, and automation systems.",
+  "email": "jkapadia23@gmail.com",
+  "location": "India",
+  "resumeUrl": "/api/resume?user=jayraj",
+  "aboutStatement": "I focus on building systems that scale — technically and operationally. My work combines strong engineering fundamentals with practical AI integration, enabling businesses to automate workflows, gain insights, and deliver better user experiences through intelligent software.",
+  "stats": [
+    { "label": "Industry Experience", "value": "8+ Years" },
+    { "label": "AI Systems & Products", "value": "10+" },
+    { "label": "Full-Stack Platforms", "value": "21+" }
+  ],
+  "social": {
+    "github": "https://github.com/jayraj-smt",
+    "linkedin": "https://www.linkedin.com/in/jayraj-kapadia-webdev/"
+  }
+}

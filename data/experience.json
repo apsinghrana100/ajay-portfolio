@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Senior Full Stack Engineer (Freelance / Contract)",
+    "company": "Remote",
+    "duration": "July 2020 - Present",
+    "description": [
+      "Architected and shipped production SaaS platforms and AI-enabled workflows (RAG, conversational agents, LLM pipelines) across healthcare and fintech.",
+      "Led distributed squads of up to 7 engineers, managing architecture blueprints, technical delivery, sprint cycles, and client-founder alignment.",
+      "Developed high-performance Next.js frontends and scalable NestJS backends integrated with PostgreSQL, MongoDB, and cloud infrastructure.",
+      "Accelerated delivery velocity and runtime performance by standardizing reusable packages, modular codebases, and optimized database indexing."
+    ],
+    "tags": ["React.js", "Next.js", "NestJS", "Node.js", "PostgreSQL", "MongoDB", "GraphQL", "AI & LLMs", "Cloud Infrastructure"]
+  },
+  {
+    "role": "Full Stack Developer",
+    "company": "Logicwind",
+    "duration": "August 2018 - June 2020",
+    "description": [
+      "Developed and maintained full-stack web applications using React.js, Node.js, GraphQL, and modern JavaScript ecosystems.",
+      "Optimized client-side rendering pathways and relational database queries to enhance SaaS performance and responsiveness.",
+      "Contributed within high-velocity Agile teams, executing frontend components, backend APIs, and deployment pipelines."
+    ],
+    "tags": ["React.js", "Node.js", "GraphQL", "JavaScript", "Agile Workflows", "SaaS Development"]
+  }
+]

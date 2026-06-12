@@ -1,0 +1,47 @@
+{
+  "frontend": [
+    { "name": "React", "url": "https://thesvg.org/icons/react/default.svg" },
+    { "name": "Next.js", "url": "https://thesvg.org/icons/nextdotjs/default.svg" },
+    { "name": "TypeScript", "url": "https://thesvg.org/icons/typescript/default.svg" },
+    { "name": "JavaScript", "url": "https://thesvg.org/icons/javascript/default.svg" },
+    { "name": "Tailwind CSS", "url": "https://thesvg.org/icons/tailwind-css/default.svg" },
+    { "name": "Framer Motion", "url": "https://thesvg.org/icons/framer/light.svg" },
+    { "name": "GSAP", "url": "https://thesvg.org/icons/gsap/default.svg" }
+  ],
+  "backend": [
+    { "name": "Node.js", "url": "https://thesvg.org/icons/nodedotjs/default.svg" },
+    { "name": "Express", "url": "https://thesvg.org/icons/expressdotjs/default.svg" },
+    { "name": "Graphql", "url": "https://thesvg.org/icons/graphql/default.svg" },
+    { "name": "Python", "url": "https://thesvg.org/icons/python/default.svg" },
+    { "name": "PostgreSQL", "url": "https://thesvg.org/icons/postgresql/default.svg" },
+    { "name": "MongoDB", "url": "https://thesvg.org/icons/mongodb/default.svg" },
+    { "name": "Firebase", "url": "https://thesvg.org/icons/firebase/default.svg" }
+
+  ],
+  "deployment": [
+    { "name": "Git", "url": "https://thesvg.org/icons/git/default.svg" },
+    { "name": "GitHub", "url": "https://thesvg.org/icons/github/dark.svg" },
+    { "name": "Docker", "url": "https://thesvg.org/icons/docker/default.svg" },
+    { "name": "Vercel", "url": "https://thesvg.org/icons/vercel/default.svg" },
+    { "name": "AWS Services", "url": "https://thesvg.org/icons/aws/default.svg" },
+    { "name": "DigitalOcean", "url": "https://thesvg.org/icons/digitalocean/default.svg" },
+    { "name": "API Management Services", "url": "https://thesvg.org/icons/azure-api-management-services/default.svg" },
+    { "name":"Azure DevOps", "url": "https://thesvg.org/icons/azure-azure-devops/default.svg" }
+  ],
+  "ai": [
+    { "name": "OpenAI API", "url": "https://thesvg.org/icons/openai/default.svg" },
+    { "name": "Gemini AI", "url": "https://thesvg.org/icons/gemini/default.svg"},
+    { "name": "Claude Ai", "url": "https://thesvg.org/icons/claude-ai/default.svg"},
+    { "name": "LLM", "url": ""},
+    { "name" : "RAG" , "url": ""},
+    { "name": "AI Workflows", "url": "https://thesvg.org/icons/gcp-workflows/default.svg"},
+    { "name":"AI Automation / N8N", "url":"https://thesvg.org/icons/n8n/default.svg"}
+  ],
+  "tools": [
+    { "name": "Figma", "url": "https://thesvg.org/icons/figma/default.svg" },
+    { "name": "VS Code", "url": "https://thesvg.org/icons/visual-studio-code/default.svg" },
+    { "name": "Cursor", "url": "https://thesvg.org/icons/cursor/default.svg" },
+    { "name": "Postman", "url": "https://thesvg.org/icons/postman/default.svg" },
+    { "name": "Linear", "url": "https://thesvg.org/icons/linear/default.svg" }
+  ]
+}

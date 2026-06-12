@@ -1,0 +1,64 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "company": "Secret Mindtech",
+    "duration": "January 2026 - Present",
+    "description": [
+      "Architect and develop scalable full-stack web applications using Next.js, React, Node.js, and TypeScript.",
+      "Design and implement robust RESTful APIs and database schemas to support complex business logic.",
+      "Collaborate with cross-functional teams to translate product requirements into high-quality technical solutions.",
+      "Optimize cloud infrastructure and database performance to ensure system reliability and low latency."
+    ],
+    "tags": ["Next.js", "React", "Node.js", "TypeScript", "PostgreSQL", "AWS"]
+  },
+  {
+    "role": "Node.js Developer (Freelance)",
+    "company": "Remote",
+    "duration": "August 2024 - December 2025",
+    "description": [
+      "Developed RESTful APIs using Node.js and Express for multiple client projects.",
+      "Built backend services with MongoDB and Sequelize for scalable applications.",
+      "Integrated third-party services like payment gateways, OAuth, and AWS S3.",
+      "Worked with clients to understand requirements and deliver custom backend solutions.",
+      "Maintained repositories with Git, handled deployments, and debugging."
+    ],
+    "tags": ["Node.js", "Express", "MongoDB", "Sequelize", "AWS S3", "OAuth"]
+  },
+  {
+    "role": "Node.js Developer",
+    "company": "Barone Budge & Dominick (BBD)",
+    "duration": "January 2024 - July 2024",
+    "description": [
+      "I have work experience with a popular telecom project, Vodacom, in South Africa. I worked on a B2B dashboard where we manage employee sims and there plans.",
+      "Worked on projects using React.js for building dynamic user interfaces.",
+      "Developed server-side applications with Node.js.",
+      "Collaborated with the team using Git and GitLab for version control and project management.",
+      "Managed Kubernetes clusters using kubectl.",
+      "Ensured design consistency with Styled Components.",
+      "Contributed to significant projects and built a solid foundation in both frontend and backend technologies."
+    ],
+    "tags": ["React.js", "Node.js", "Kubernetes", "Styled Components", "GitLab"]
+  },
+  {
+    "role": "Node.js Developer",
+    "company": "sharpener.tech",
+    "duration": "September 2022 - October 2023",
+    "description": [
+      "Completed Node.js training at Sharpener.tech.",
+      "Worked on DSA to web application development using Node.js and the Express framework.",
+      "Developed projects including a Real-time Chat Web Application and an Expense Tracker."
+    ],
+    "tags": ["Node.js", "Express.js", "MySQL", "JavaScript"]
+  },
+  {
+    "role": "Node.js Developer",
+    "company": "Sahajanand Technologies Private Limited (STPL)",
+    "duration": "Internship",
+    "description": [
+      "Interned in the Research and Development (R&D) Department.",
+      "Learned Pascal and Delphi language.",
+      "Developed a Windows-based application during the internship."
+    ],
+    "tags": ["Pascal", "Delphi", "Windows App"]
+  }
+]

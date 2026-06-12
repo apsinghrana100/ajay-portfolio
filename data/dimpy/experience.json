@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Senior Full Stack & AI Systems Engineer (Freelance / Contract)",
+    "company": "Remote",
+    "duration": "March 2023 - Present",
+    "description": [
+      "Architected and deployed production-grade SaaS platforms, scalable e-commerce systems, and advanced AI agentic architectures (RAG systems, Twilio voice streams).",
+      "Engineered high-performance web frontends and centralized CRM panels using Next.js, React, and TypeScript integrated with custom backend frameworks.",
+      "Designed and optimized robust database schemas across PostgreSQL, MySQL, and MongoDB, leveraging ORMs like Sequelize and Prisma for sub-second query latency.",
+      "Implemented secure, multi-tenant digital finance, automated billing (mandates), and real-time WebSocket pipelines for client portfolios."
+    ],
+    "tags": ["Next.js", "React", "Node.js", "TypeScript", "AI & RAG", "PostgreSQL", "MongoDB", "MySQL", "CRM & E-Commerce"]
+  }
+]

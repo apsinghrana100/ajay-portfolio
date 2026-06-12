@@ -1,0 +1,1064 @@
+[
+  {
+  "id": "01",
+  "slug": "finideas-financial-advisory",
+  "title": "Finideas Platform",
+  "year": "2020",
+  "role": "Full Stack Developer",
+  "timeline": "",
+  "focus": "Financial Advisory Platform",
+  "impact": "Increased customer acquisition by 22% and scaled assets under advisory to ₹500+ Cr",
+  "description": "A web application developed for Finideas to digitise investment operations, covering customer acquisition, onboarding, risk assessment, reporting, and managed portfolios.",
+  "challenge": "Digitisation of investment operations and processes, enabling users to evaluate risk appetite, review investments, and access financial education in multiple languages.",
+  "approach": "Developed an all-encompassing website to provide investment information, education, and user access to their financial data.",
+  "solution": "Built a web application with client and admin dashboards, including modules for UI, dashboard, questionnaire, report generation, auto mandate, and e-mandate.",
+  "features": [
+    "Customer acquisition and onboarding system",
+    "Risk assessment questionnaire",
+    "Client and admin dashboards",
+    "Report generation",
+    "Managed portfolios",
+    "Auto mandate and e-mandate",
+    "Investment education in multiple languages"
+  ],
+  "tags": [
+    "FinTech",
+    "Web Application",
+    "Dashboard"
+  ],
+  "stack": [
+    "React",
+    "Node.js",
+    "MySQL",
+    "Sequelize"
+  ],
+  "liveUrl": "",
+  "githubUrl": "",
+  "thumbnail": "/images/projects/Finideas_images/Thumbnail_Finideas.png",
+  "gallery": [
+  ],
+  "featured": true
+},
+{
+  "id": "02",
+  "slug": "doodeo-artist-platform",
+  "title": "Doodeo",
+  "year": "2021",
+  "role": "Full Stack Developer",
+  "timeline": "",
+  "focus": "Artist Platform & Live Streaming",
+  "impact": "Achieved 15.1% increase in monthly signups and supported 766+ monthly active users",
+  "description": "A web platform built for artists to connect with clients, host live events, upload recorded content, and enable booking of performances.",
+  "challenge": "Artists in the entertainment industry face difficulty in finding regular work, showcasing their talent, and generating business from audiences.",
+  "approach": "Developed a platform to provide artists with tools for live streaming, content sharing, and audience engagement, while offering users a simple way to discover and connect with artists.",
+  "solution": "Built a web application that allows artists to host live events, upload recorded videos, interact with fans via live chat, and accept bookings with secure payment processing.",
+  "features": [
+    "Artist onboarding and content sharing platform",
+    "Live streaming capability for events",
+    "Upload and sharing of pre-recorded videos",
+    "Live chat during streams for user interaction",
+    "Artist booking system for online and offline performances",
+    "Payment gateway for secure transactions",
+    "Wallet-based payments for artists",
+    "User-friendly interface for discovering and connecting with artists"
+  ],
+  "tags": [
+    "WebRTC",
+    "Live Streaming",
+    "Entertainment Platform",
+    "Marketplace",
+    "Web Application"
+  ],
+  "stack": [
+    "Next.js",
+    "Node.js",
+    "TypeScript",
+    "GraphQL",
+    "PostgreSQL",
+    "Stripe"
+  ],
+  "liveUrl": "",
+  "githubUrl": "",
+  "thumbnail": "/images/projects/Doodeo_Images/Thumbnail_Doodeo.png",
+  "gallery": [
+  ],
+
+  "featured": true
+},
+{
+  "id": "03",
+  "slug": "steerhealth-platform",
+  "title": "SteerHealth",
+  "year": "2022",
+  "role": "Full Stack Developer",
+  "timeline": "",
+  "focus": "Healthcare SaaS Platform",
+  "impact": "Increased bookings by 186% and improved patient retention and referrals",
+  "description": "A SaaS healthcare platform designed to connect marketing, operational, clinical, and financial workflows to improve patient experience and drive growth for healthcare organisations.",
+  "challenge": "To connect patients with healthcare organisations quickly, retain them over time, and provide a unified solution for accessing medical services with a seamless user experience.",
+  "approach": "Developed a platform providing digital tools for patients such as appointments, chat, treatment information, payments, and insurance details, along with a dashboard for organisations to manage these features.",
+  "solution": "Built a SaaS platform in iterative sprints with features including appointment scheduling, registration, onboarding, report generation, secure payments, and a client-side dashboard for management.",
+  "features": [
+    "Appointment scheduling system",
+    "Patient registration and onboarding",
+    "Chat requests between patients and providers",
+    "Treatment information access",
+    "Payment integration",
+    "Insurance details management",
+    "Report generation and download",
+    "Client dashboard for managing operations"
+  ],
+  "tags": [
+    "Healthcare",
+    "SaaS",
+    "Web Application",
+    "Dashboard"
+  ],
+  "stack": [
+    "Next.js",
+    "Node.js",
+    "TypeScript",
+    "GraphQL",
+    "MongoDB",
+    "Material UI"
+  ],
+  "liveUrl": "",
+  "githubUrl": "",
+  "thumbnail": "/images/projects/Steerhealth_Images/Thumbnail_Steerhealth.png",
+  "gallery": [
+  ],
+  "featured": true
+},
+{
+  "id": "04",
+  "slug": "girls-first-finance",
+  "title": "Girls First Finance",
+  "year": "2022",
+  "role": "Full Stack Developer",
+  "timeline": "",
+  "focus": "Financial Support Platform",
+  "impact": "Increased website traffic by 200% with growing user base and engagement",
+  "description": "A web and mobile platform designed to provide financial support and resources for girls, enabling access to funding for education, living expenses, and enterprise ideas.",
+  "challenge": "Many girls face sexual exploitation in exchange for financial support such as tuition, jobs, or training, creating a need for safe and accessible funding solutions.",
+  "approach": "Developed a platform focused on providing safe financial access, enabling girls to apply for loans, track finances, and connect with mentors.",
+  "solution": "Built a web and mobile application with features for loan calculation, loan request tracking, financial history management, and mentor interaction.",
+  "features": [
+    "Loan calculation system",
+    "Loan request tracking",
+    "Financial history tracking",
+    "Loan application workflow",
+    "Mentor following system in mobile app",
+    "Chat with mentors",
+    "Admin panel for platform management"
+  ],
+  "tags": [
+    "FinTech",
+    "Social Impact",
+    "Web Application",
+    "Mobile App"
+  ],
+  "stack": [
+    "React",
+    "Node.js",
+    "Sequelize",
+    "Material UI",
+    "TypeScript",
+    "Docker",
+    "MySQL",
+    "AWS"
+  ],
+  "liveUrl": "",
+  "githubUrl": "",
+  "thumbnail": "/images/projects/Girls_First_Finance_Images/Thumbnail_Girls_Finance.png",
+  "gallery": [
+  ],
+  "featured": true
+},
+{
+  "id": "05",
+  "slug": "troop-travel",
+  "title": "Troop Travel",
+  "year": "2021",
+  "role": "Backend Developer",
+  "timeline": "",
+  "focus": "Travel Planning Platform",
+  "impact": "Users increased by 20% annually with significant travel time, cost, and CO2 savings",
+  "description": "A backend system developed for Troop Travel to support planning of trips including flights, hotels, and rentals in a unified platform.",
+  "challenge": "Lack of a single platform to plan trips, accommodations, and activities seamlessly in one place.",
+  "approach": "Focused on building a backend system to support multiple travel-related services such as itinerary planning, hotel bookings, car rentals, and flights.",
+  "solution": "Developed the backend using Node.js and GraphQL to manage flights, hotels, and rental services for the platform.",
+  "features": [
+    "Backend system for trip planning",
+    "Flight management",
+    "Hotel booking management",
+    "Car rental management",
+    "Support for itinerary planning"
+  ],
+  "tags": [
+    "Travel",
+    "Backend Systems",
+    "GraphQL",
+    "Web Application"
+  ],
+  "stack": [
+    "Node.js",
+    "GraphQL",
+    "React",
+    "Apollo"
+  ],
+  "liveUrl": "",
+  "githubUrl": "",
+  "thumbnail": "/images/projects/Troop_Images/Thumbnail_Troop.png",
+  "gallery": [
+  ],
+  "featured": true
+},
+{
+  "id": "06",
+  "slug": "dayviewer",
+  "title": "Dayviewer",
+  "year": "2022",
+  "role": "Full Stack Developer",
+  "timeline": "",
+  "focus": "Productivity & Organization Platform",
+  "impact": "Adopted by thousands of users for task management, scheduling, and organization",
+  "description": "A web platform designed as an all-in-one calendar, planner, and organizer to manage tasks, events, and notes for personal and professional productivity.",
+  "challenge": "Users struggled to manage schedules, tasks, notes, deadlines, and communication across multiple scattered tools.",
+  "approach": "Developed a single platform combining calendar, task management, notes, and event planning with a simple and customizable interface.",
+  "solution": "Built the platform in multiple sprints covering calendar functionality, task management, notes, and event planning modules, followed by testing and deployment.",
+  "features": [
+    "Calendar functionality for scheduling",
+    "Task management module",
+    "Notes management",
+    "Event planning module",
+    "Task assignment and progress tracking",
+    "Deadline management",
+    "Team collaboration support"
+  ],
+  "tags": [
+    "Productivity",
+    "Task Management",
+    "Calendar",
+    "Web Application"
+  ],
+  "stack": [
+    "React",
+    "Node.js",
+    "GraphQL",
+    "Docker",
+    "MongoDB",
+    "TypeScript"
+  ],
+  "liveUrl": "",
+  "githubUrl": "",
+  "thumbnail": "/images/projects/Dayviewer_Images/Thumbnail_Dayviewer.png",
+  "gallery": [
+  ],
+  "featured": true
+},
+{
+  "id": "07",
+  "slug": "darlink-ai",
+  "title": "Darlink",
+  "year": "",
+  "role": "Full Stack Developer",
+  "timeline": "",
+  "focus": "AI Companion Platform",
+  "impact": "Improved user retention by 60% and enhanced emotional well-being for users",
+  "description": "An AI companion platform designed to deliver personalized conversations that adapt to users and enhance emotional connection.",
+  "challenge": "Enhancing user experience by creating meaningful and engaging conversational interactions.",
+  "approach": "Focused on building a conversational platform that adapts to users and delivers personalized interactions.",
+  "solution": "Developed a web platform that enables smart conversations aimed at improving engagement and emotional connection.",
+  "features": [
+    "Personalized conversations",
+    "Emotion-focused interaction experience",
+    "User engagement through conversational interface"
+  ],
+  "tags": [
+    "AI",
+    "Conversational Platform",
+    "User Engagement"
+  ],
+  "stack": [
+    "React",
+    "Node.js",
+    "Apollo"
+  ],
+  "liveUrl": "",
+  "githubUrl": "",
+  "thumbnail": "/images/projects/Darlink_Images/Thumbnail_Darlink.png",
+  "gallery": [
+  ],
+  "featured": false
+},
+{
+  "id": "08",
+  "slug": "agent-flow-ai",
+  "title": "Agent Flow AI",
+  "year": "2025",
+  "role": "Full Stack Developer",
+  "timeline": "3 Weeks",
+  "focus": "Multi-Agent AI Systems & Product Planning",
+  "impact": "Enabled instant generation of structured startup plans, reducing early-stage planning effort from hours to seconds",
+  "description": "A multi-agent AI orchestration platform that converts raw startup ideas into structured, execution-ready product plans across product, generatorure, business, and QA domains.",
+  "challenge": "Startup ideas are often vague and require multiple roles (PM, generator, business strategist, QA) to turn into actionable plans. This process is slow, fragmented, and difficult to standardize.",
+  "approach": "Designed a role-based multi-agent system with controlled prompt orchestration, where each agent produces structured outputs that feed into a unified planning response.",
+  "solution": "Built a centralized orchestration API using Next.js that dispatches domain-specific prompts to Gemini, aggregates responses, and renders them in a structured UI with visual workflow mapping.",
+  "features": [
+    "Multi-agent orchestration pipeline (PM, generator, Business, QA)",
+    "Single API entrypoint for full-plan generation",
+    "Structured outputs segmented by role for clarity",
+    "Tabbed interface for fast navigation across agent responses",
+    "Visual workflow canvas representing agent execution flow",
+    "Reusable prompt generatorure for scalable agent addition"
+  ],
+  "tags": [
+    "Multi-Agent Systems",
+    "LLM Orchestration",
+    "AI Agents",
+    "Generative AI",
+    "Product Planning",
+    "Next.js",
+    "TypeScript"
+  ],
+  "stack": [
+    "Next.js 16",
+    "React 19",
+    "Tailwind CSS 4",
+    "Google Gemini API",
+    "Node.js",
+    "TypeScript"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/adk-agent-flow-ai",
+  "thumbnail": "/images/projects/agent-flow-ai/Thumbnail_Agent_Flow.png",
+  "gallery": [
+    {
+      "src": "/images/projects/agent-flow-ai/1.png",
+      "alt": "Idea input interface",
+      "caption": "Users submit raw startup ideas which trigger the multi-agent orchestration pipeline."
+    },
+    {
+      "src": "/images/projects/agent-flow-ai/2.png",
+      "alt": "Idea input interface",
+      "caption": "Users submit raw startup ideas which trigger the multi-agent orchestration pipeline."
+    },
+    {
+      "src": "/images/projects/agent-flow-ai/3.png",
+      "alt": "Multi-agent structured output",
+      "caption": "Outputs are segmented into Product, generatorure, Business, and QA views for structured analysis."
+    }
+  ],
+  "featured": true
+},
+{
+  "id": "09",
+  "slug": "ai-business-analyst",
+  "title": "AI Business Analyst",
+  "year": "2025",
+  "role": "AI Systems Engineer",
+  "timeline": "4 Weeks",
+  "focus": "Agentic RAG & Document Intelligence",
+  "impact": "Enabled evidence-backed business insights with traceable reasoning across large document sets",
+  "description": "AI Business Analyst is a document-grounded business intelligence assistant built on an Agentic RAG workflow. It ingests business documents, chunks and stores them in MongoDB, retrieves relevant evidence using vector search with fallback ranking, and returns structured answers with confidence and evidence traces.",
+  "challenge": "Business teams struggle to extract actionable insights from large document collections, while traditional RAG systems lack reasoning transparency, confidence validation, and adaptive query planning.",
+  "approach": "Designed an agentic planner-executor loop that dynamically retrieves, evaluates, and refines responses using semantic search, confidence scoring, and iterative re-planning.",
+  "solution": "Built a full-stack system using Next.js and MongoDB that combines vector search with an agent-based reasoning pipeline, enabling multi-step analysis, evidence tracing, and structured output generation.",
+  "features": [
+    "Multi-document upload and persistent document management",
+    "Semantic chunking and embedding generation for retrieval",
+    "Document-scoped and cross-document query modes",
+    "Agentic planner-executor loop with dynamic re-planning",
+    "Multi-step reasoning: retrieval, analysis, recommendations, synthesis",
+    "Evidence-backed responses with confidence scoring",
+    "Traceable outputs linking insights to source documents",
+    "Document lifecycle management (list, delete, update)"
+  ],
+
+  "tags": [
+    "Agentic AI",
+    "RAG",
+    "LLM Systems",
+    "Document Intelligence",
+    "Vector Search",
+    "Embeddings",
+    "MongoDB",
+    "Next.js",
+    "TypeScript"
+  ],
+  "stack": [
+    "Next.js 16",
+    "React 19",
+    "Tailwind CSS 4",
+    "MongoDB",
+    "Node.js",
+    "TypeScript",
+    "Groq SDK",
+    "Transformers (Embeddings)"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/ai-business-analyst-agentic-rag-based",
+  "thumbnail": "/images/projects/ai-business-analyst/Thumbnail_Business_Analytics.png",
+  "gallery": [
+    {
+      "src": "/images/projects/ai-business-analyst/1.png",
+      "alt": "Main dashboard",
+      "caption": "Central dashboard for managing documents and executing business intelligence queries."
+    },
+    {
+      "src": "/images/projects/ai-business-analyst/4.png",
+      "alt": "Main dashboard",
+      "caption": "Central dashboard for managing documents and executing business intelligence queries."
+    },
+    {
+      "src": "/images/projects/ai-business-analyst/3.png",
+      "alt": "Multi-document insight response",
+      "caption": "Structured responses with evidence links, confidence scores, and reasoning traces."
+    },
+    {
+      "src": "/images/projects/ai-business-analyst/2.png",
+      "alt": "Upload interface",
+      "caption": "Multi-document ingestion pipeline with semantic processing and embedding generation."
+    },
+    {
+      "src": "/images/projects/ai-business-analyst/5.png",
+      "alt": "User interface",
+      "caption": ""
+    }
+  ],
+  "featured": true
+},
+{
+  "id": "10",
+  "slug": "docmind-ai",
+  "title": "DocMind AI",
+  "year": "2025",
+  "role": "AI Engineer",
+  "timeline": "3 Weeks",
+  "focus": "Retrieval-Augmented Generation & Document Intelligence",
+  "impact": "Enabled fast, context-grounded document Q&A with controlled response modes for accuracy and flexibility",
+  "description": "An AI-powered document intelligence platform that allows users to upload PDFs, index their content using vector embeddings, and perform high-speed, context-aware question answering using retrieval-augmented generation (RAG).",
+  "challenge": "Reviewing large PDF documents is time-consuming, and traditional LLM systems often produce ungrounded or overly generic responses without strict adherence to source content.",
+  "approach": "Designed a RAG pipeline with structured document ingestion, semantic chunking, and configurable response modes to balance strict grounding with flexible expert-level insights.",
+  "solution": "Built a full-stack Next.js application integrating MongoDB vector search and Groq-powered inference to deliver real-time, document-aware responses with selectable behavior modes.",
+  "features": [
+    "PDF upload and automated text extraction pipeline",
+    "Semantic chunking and embedding generation for retrieval",
+    "MongoDB vector search for high-speed similarity matching",
+    "Multi-mode response system (strict, expert, summary)",
+    "Strict mode for fully grounded, source-only answers",
+    "Expert mode for document-based insights with extended reasoning",
+    "Summary mode for concise, high-level outputs",
+    "Persistent document catalog for ongoing query access"
+  ],
+  "tags": [
+    "RAG",
+    "Document AI",
+    "LLM Systems",
+    "Vector Search",
+    "Embeddings",
+    "Semantic Retrieval",
+    "MongoDB",
+    "Next.js",
+    "TypeScript"
+  ],
+  "stack": [
+    "Next.js 16",
+    "React 19",
+    "Tailwind CSS 4",
+    "MongoDB",
+    "Groq API",
+    "Transformers (Embeddings)",
+    "TypeScript"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/docmind-ai-rag-based",
+  "thumbnail": "/images/projects/docmind-ai/Thumbnail_DocMInd_Ai.png.png",
+  "gallery": [
+    {
+      "src": "/images/projects/docmind-ai/1.png",
+      "alt": "Main dashboard",
+      "caption": "Central dashboard for uploading, managing, and querying documents."
+    },
+    {
+      "src": "/images/projects/docmind-ai/2.png",
+      "alt": "Main dashboard",
+      "caption": "Central dashboard for uploading, managing, and querying documents."
+    },
+    {
+      "src": "/images/projects/docmind-ai/3.png",
+      "alt": "PDF upload interface",
+      "caption": "Document ingestion pipeline that processes PDFs into semantic chunks for retrieval."
+    },
+    {
+      "src": "/images/projects/docmind-ai/4.png",
+      "alt": "Q&A interaction",
+      "caption": "Interactive Q&A interface with selectable response modes for different levels of grounding and detail."
+    }
+  ],
+  "featured": true
+},
+{
+  "id": "11",
+  "slug": "ai-customer-support",
+  "title": "AI Customer Support",
+  "year": "2025",
+  "role": "Full Stack Developer",
+  "timeline": "3–4 Weeks",
+  "focus": "AI Orchestration & Conversational UX",
+  "impact": "Enhanced customer support experience with emotion-aware, multilingual, and secure AI interactions",
+  "description": "A high-fidelity AI-powered customer support system designed for ecommerce, combining intelligent orchestration, sentiment awareness, multilingual interaction, and real-time data grounding.",
+  "challenge": "Traditional customer support systems lack contextual understanding, emotional awareness, and secure access to user-specific data, leading to poor user experience and unreliable responses.",
+  "approach": "Built an AI orchestration system that integrates sentiment detection, multilingual processing, and factual data injection to ensure accurate, context-aware, and personalized responses.",
+  "solution": "Developed a full-stack platform using Next.js, Node.js, and MongoDB with Groq-powered LLM execution, enabling real-time, emotion-aware conversations with strict data isolation and grounded responses.",
+  "features": [
+    "Intelligent AI orchestration using Llama 3.3 for context-aware reasoning",
+    "Sentiment detection engine (anger, frustration, joy) with adaptive responses",
+    "Real-time visual feedback with emoji-based reactions",
+    "Multilingual support (English, Hindi, Gujarati, and more)",
+    "Voice interface with speech-to-text interaction",
+    "Session-based data isolation for secure user-specific access",
+    "Factual data injection pipeline to ensure grounded responses",
+    "Prompt guard system to restrict AI within ecommerce context"
+  ],
+  "tags": [
+    "Conversational AI",
+    "AI Orchestration",
+    "Sentiment Analysis",
+    "Multilingual AI",
+    "Voice Interface",
+    "LLM Systems",
+    "Next.js",
+    "MongoDB",
+    "TypeScript"
+  ],
+  "stack": [
+    "Next.js",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Groq API",
+    "TypeScript"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/ai-customer-support",
+  "thumbnail": "/images/projects/ai-customer-support/Thumbnail_Customer_Support.png",
+  "gallery": [
+    {
+      "src": "/images/projects/ai-customer-support/1.png",
+      "alt": "Chat interface",
+      "caption": "AI-powered chat interface with real-time sentiment-aware responses."
+    },
+    {
+      "src": "/images/projects/ai-customer-support/2.png",
+      "alt": "Chat interface",
+      "caption": "AI-powered chat interface with real-time sentiment-aware responses."
+    },
+    {
+      "src": "/images/projects/ai-customer-support/3.png",
+      "alt": "Voice interaction",
+      "caption": "Voice-enabled interaction allowing users to communicate using speech-to-text."
+    },
+    {
+      "src": "/images/projects/ai-customer-support/4.png",
+      "alt": "Multilingual support",
+      "caption": "Seamless switching between multiple languages during conversation."
+    },
+    {
+      "src": "/images/projects/ai-customer-support/5.png",
+      "alt": "User Interface",
+      "caption": ""
+    }
+  ],
+  "featured": true
+},
+{
+  "id": "12",
+  "slug": "ai-resume-generator",
+  "title": "AI Resume generator",
+  "year": "2025",
+  "role": "Full Stack Developer",
+  "timeline": "3–4 Weeks",
+  "focus": "AI Content Generation & UX-Driven Workflow Systems",
+  "impact": "Streamlined resume creation with structured AI-generated content and high-fidelity export capabilities",
+  "description": "An AI-powered resume generation platform that transforms raw career data into professionally structured resumes using Google Gemini, delivered through a guided multi-step workflow.",
+  "challenge": "Creating high-quality resumes requires structured input, strong writing, and proper formatting, which can be difficult for users without guidance or domain expertise.",
+  "approach": "Designed a guided 7-step workflow system combined with AI-driven content generation to standardize input collection, improve output quality, and ensure a seamless user experience.",
+  "solution": "Built a full-stack application that collects structured user data, processes it through a backend prompt pipeline, and generates high-quality resume content rendered in real-time with export support.",
+  "features": [
+    "7-step guided wizard for structured resume data collection",
+    "Comprehensive input coverage (contact, social links, skills, experience, projects, academics, achievements)",
+    "Fresher mode support for users without prior work experience",
+    "AI-powered generation of summaries and action-oriented bullet points using Gemini 2.5 Flash",
+    "Real-time resume preview based on AI-generated structured output",
+    "High-fidelity PDF export using html2canvas and jsPDF with multi-page support",
+    "Automatic local storage persistence for session recovery",
+    "JSON import/export for data portability and reuse",
+    "Premium glassmorphic UI with dark mode and micro-animations"
+  ],
+  "tags": [
+    "Generative AI",
+    "LLM Systems",
+    "AI Content Generation",
+    "Workflow Systems",
+    "Frontend Engineering",
+    "Next.js",
+    "TypeScript"
+  ],
+  "stack": [
+    "Next.js",
+    "Node.js",
+    "TypeScript",
+    "Google Gemini API",
+    "html2canvas",
+    "jsPDF"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/ai-resume-generator",
+  "thumbnail": "/images/projects/ai-resume-generator/Thumbnail_Resume_Builder.png",
+  "gallery": [
+    {
+      "src": "/images/projects/ai-resume-generator/1.png",
+      "alt": "Step-1",
+      "caption": "Multi-step wizard guiding users through structured resume data collection."
+    },
+    {
+      "src": "/images/projects/ai-resume-generator/2.png",
+      "alt": "Step-1",
+      "caption": "Multi-step wizard guiding users through structured resume data collection."
+    },
+    {
+      "src": "/images/projects/ai-resume-generator/3.png",
+      "alt": "Step-2",
+      "caption": "Real-time preview of AI-generated resume content with structured formatting."
+    },
+    {
+      "src": "/images/projects/ai-resume-generator/4.png",
+      "alt": "Step-3",
+      "caption": "High-fidelity PDF export with multi-page support for professional output."
+    },
+    {
+      "src": "/images/projects/ai-resume-generator/5.png",
+      "alt": "Step-4",
+      "caption": ""
+    },
+    {
+      "src": "/images/projects/ai-resume-generator/6.png",
+      "alt": "Step-5",
+      "caption": ""
+    },
+    {
+      "src": "/images/projects/ai-resume-generator/7.png",
+      "alt": "Step-6",
+      "caption": ""
+    },
+    {
+      "src": "/images/projects/ai-resume-generator/8.png",
+      "alt": "Step-7",
+      "caption": ""
+    },
+    {
+      "src": "/images/projects/ai-resume-generator/9.png",
+      "alt": "User Interface",
+      "caption": ""
+    }
+  ],
+  "featured": true
+},
+{
+  "id": "13",
+  "slug": "ai-voice-chat",
+  "title": "AI Voice Chat",
+  "year": "2025",
+  "role": "Full Stack Developer",
+  "timeline": "3–4 Weeks",
+  "focus": "Voice AI Systems & Real-Time Interaction",
+  "impact": "Enabled seamless voice-first AI conversations with real-time transcription, playback, and interruption handling",
+  "description": "A production-grade, voice-enabled AI assistant that allows users to hold full natural-language conversations using speech, with real-time transcription, LLM responses, and audio playback.",
+  "challenge": "Building a seamless voice interface requires handling real-time transcription, low-latency responses, interruption control, and preventing feedback loops between input and output audio.",
+  "approach": "Integrated browser speech APIs with a multi-provider LLM backend, focusing on real-time processing, interrupt handling, and audio feedback control to create a natural conversational experience.",
+  "solution": "Developed a Next.js-based application that combines speech recognition, LLM orchestration, and speech synthesis to deliver a fully voice-driven interface with immersive live interaction modes.",
+  "features": [
+    "Voice-first interaction with natural speech input",
+    "Live Mode with full-screen immersive call interface",
+    "Real-time speech recognition using Web Speech API",
+    "Text-to-speech playback via browser SpeechSynthesis",
+    "Interruptible AI responses that stop when user speaks",
+    "Echo cancellation using word-level matching to prevent feedback loops",
+    "Multi-provider LLM backend (Groq with Gemini fallback)",
+    "Type-safe API layer with Zod validation and structured error handling",
+    "Responsive UI across desktop and mobile browsers"
+  ],
+  "tags": [
+    "Voice AI",
+    "Conversational AI",
+    "Real-Time Systems",
+    "LLM Orchestration",
+    "Speech Recognition",
+    "Speech Synthesis",
+    "Next.js",
+    "TypeScript"
+  ],
+  "stack": [
+    "Next.js 15",
+    "TypeScript 5",
+    "Tailwind CSS 4",
+    "Radix UI",
+    "shadcn/ui",
+    "Framer Motion",
+    "LangChain",
+    "Groq API",
+    "Google Gemini API",
+    "Web Speech API",
+    "SpeechSynthesis API",
+    "Zod"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/AI-voice-chat",
+  "thumbnail": "/images/projects/ai-voice-chat/Thumbnail_Voice_Chat_2.png",
+  "gallery": [
+    {
+      "src": "/images/projects/ai-voice-chat/1.png",
+      "alt": "Voice interaction",
+      "caption": "Voice-first interface enabling real-time conversational interaction without typing."
+    },
+    {
+      "src": "/images/projects/ai-voice-chat/2.png",
+      "alt": "Voice interaction",
+      "caption": "Voice-first interface enabling real-time conversational interaction without typing."
+    },
+    {
+      "src": "/images/projects/ai-voice-chat/3.png",
+      "alt": "Live mode",
+      "caption": "Full-screen live mode with immersive call experience and animated audio visualization."
+    },
+    {
+      "src": "/images/projects/ai-voice-chat/4.png",
+      "alt": "Audio feedback handling",
+      "caption": "System handling interruptions and echo cancellation for smooth voice interaction."
+    },
+    {
+      "src": "/images/projects/ai-voice-chat/5.png",
+      "alt": "Chat Response",
+      "caption": ""
+    }
+  ],
+  "featured": true
+},
+{
+  "id": "14",
+  "slug": "job-interview-agent",
+  "title": "Job Interview Agent",
+  "year": "2025",
+  "role": "Backend / AI Developer",
+  "timeline": "2–3 Weeks",
+  "focus": "Agent-Based Workflows & Interview Coaching",
+  "impact": "Enabled structured mock interview practice with automated feedback and session tracking",
+  "description": "A text-based AI interview coaching assistant that simulates structured mock interviews across multiple formats, providing guided workflows, scoring, and performance reports.",
+  "challenge": "Practicing interviews effectively requires structured workflows, relevant question sets, and consistent feedback, which are difficult to replicate without guided systems or real interviewers.",
+  "approach": "Designed an agent-driven system using Google ADK that manages interview sessions, executes structured workflows, and generates evaluation reports based on user responses.",
+  "solution": "Built a FastAPI backend with WebSocket-based chat, integrating a Google ADK agent with session tools, question banks, and optional calendar scheduling for interview practice.",
+  "features": [
+    "Mock interview sessions across behavioral, technical, system design, and case study formats",
+    "JSON-driven question bank for structured and extensible interview content",
+    "Session persistence using local JSON artifacts",
+    "Performance report generation with structured assessment output",
+    "WebSocket-based real-time chat interaction",
+    "Optional Google Calendar integration for scheduling interview sessions",
+    "Lightweight browser-based chat UI without frontend frameworks"
+  ],
+  "tags": [
+    "Agentic AI",
+    "Interview Coaching",
+    "LLM Systems",
+    "FastAPI",
+    "WebSockets",
+    "Google ADK",
+    "Backend Systems"
+  ],
+  "stack": [
+    "FastAPI",
+    "Uvicorn",
+    "Google ADK",
+    "Google Gemini API",
+    "JavaScript",
+    "HTML/CSS",
+    "Google Calendar API"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/ai-job-interview-agent",
+  "thumbnail": "/images/projects/job-interview-agent/Thumbnail_AI_Interview.png",
+  "gallery": [
+    {
+      "src": "/images/projects/job-interview-agent/1.png",
+      "alt": "Chat interface",
+      "caption": "Lightweight browser-based chat interface for conducting mock interview sessions."
+    },
+    {
+      "src": "/images/projects/job-interview-agent/2.png",
+      "alt": "Chat interface",
+      "caption": "Lightweight browser-based chat interface for conducting mock interview sessions."
+    },
+    {
+      "src": "/images/projects/job-interview-agent/3.png",
+      "alt": "Interview workflow",
+      "caption": "Structured interview flows covering behavioral, technical, and system design scenarios."
+    }
+  ],
+  "featured": true
+},
+{
+  "id": "15",
+  "slug": "ai-voice-calling-agent",
+  "title": "AI Voice Calling Agent",
+  "year": "2025",
+  "role": "Full Stack / AI Systems Developer",
+  "timeline": "3–4 Weeks",
+  "focus": "Real-Time Voice AI & Telephony Systems",
+  "impact": "Enabled real-time, multilingual AI phone conversations with sub-second latency using streaming audio pipelines",
+  "description": "A real-time AI voice agent designed to handle live phone calls using Twilio Media Streams, performing speech-to-text, LLM-based response generation, and speech synthesis in a low-latency streaming pipeline.",
+  "challenge": "Building real-time voice agents for phone calls requires handling streaming audio, low-latency processing, language detection, and seamless bidirectional communication over telephony systems.",
+  "approach": "Designed a streaming pipeline integrating Twilio Media Streams with custom STT, LLM, and TTS components, focusing on low-latency processing, multilingual support, and interruption handling.",
+  "solution": "Implemented a Node.js WebSocket server connected to Twilio Voice, with a Python-based STT/TTS backend and Groq-powered LLM responses, enabling real-time bidirectional audio streaming over phone calls.",
+  "features": [
+    "Real-time phone call handling using Twilio Media Streams (WebSocket)",
+    "Bidirectional audio streaming between caller and AI system",
+    "Voice activity detection (VAD) for speech boundary detection",
+    "Hybrid speech-to-text pipeline (Faster-Whisper + IndicConformer-600M)",
+    "Automatic language detection across English, Hindi, Telugu, Tamil, and Gujarati",
+    "Streaming LLM responses using Groq (LLaMA 3.1)",
+    "Chunked text-to-speech synthesis for low-latency responses",
+    "Multilingual Piper TTS synthesis for natural voice output",
+    "Echo suppression and interruption handling during live calls",
+    "Configurable greeting message on call connection"
+  ],
+  "tags": [
+    "Voice AI",
+    "Telephony Systems",
+    "Real-Time Systems",
+    "Twilio",
+    "Speech-to-Text",
+    "Text-to-Speech",
+    "LLM Systems",
+    "Multilingual AI"
+  ],
+  "stack": [
+    "Node.js",
+    "Express",
+    "TypeScript",
+    "Twilio Voice API",
+    "Twilio Media Streams",
+    "FastAPI",
+    "Uvicorn",
+    "Faster-Whisper",
+    "IndicConformer-600M",
+    "Groq API",
+    "Piper TTS"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/AI-voice-calling-agent",
+  "thumbnail": "/images/projects/ai-voice-calling-agent/Thumbnail_Voice_Calling_Agent_2.png",
+  "gallery": [
+  ],
+  "featured": true
+},
+{
+  "id": "16",
+  "slug": "real-estate-hdr-fusion",
+  "title": "Real Estate HDR Fusion",
+  "year": "2025",
+  "role": "Full Stack Developer",
+  "timeline": "3–4 Weeks",
+  "focus": "AI Image Processing & Multi-Agent Visual Workflows",
+  "impact": "Automated professional HDR image fusion, producing high-quality real estate photographs from bracketed exposures",
+  "description": "An AI-powered web application that merges multiple bracketed exposure images into a single high-fidelity, ultra-realistic real estate photograph with balanced lighting and enhanced detail.",
+  "challenge": "Capturing well-balanced architectural photos is difficult due to extreme dynamic range, where bright exterior light and dark interiors cannot be properly exposed in a single shot.",
+  "approach": "Designed a multi-agent visual processing pipeline that analyzes exposure brackets and applies AI-driven fusion techniques to reconstruct a balanced, realistic final image.",
+  "solution": "Built a Next.js-based application integrating Google Gemini for visual analysis and OpenAI image APIs for fusion and editing, delivering a streamlined interface for professional-grade HDR image generation.",
+  "features": [
+    "Multi-exposure HDR fusion supporting 2 to 10 bracketed images",
+    "AI-driven exposure analysis using Gemini 2.0 Flash",
+    "Image fusion and editing pipeline using OpenAI image APIs",
+    "Multi-agent workflow combining analysis and synthesis stages",
+    "Canva-style sidebar interface with upload queue and controls",
+    "Interactive agent selection for different processing pipelines",
+    "Real-time generation feedback during image processing"
+  ],
+  "tags": [
+    "Computer Vision",
+    "AI Image Processing",
+    "HDR Imaging",
+    "Generative AI",
+    "Multi-Agent Systems",
+    "Next.js",
+    "React"
+  ],
+  "stack": [
+    "Next.js 16.2",
+    "React 19.2",
+    "Zustand",
+    "Tailwind CSS 4",
+    "Lucide React",
+    "Google Gemini API",
+    "OpenAI Image API"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/real-estate-hdr-fusion-with-AI",
+  "thumbnail": "/images/projects/real-estate-hdr-fusion/Thumbnail_Realestate_Fusion.png",
+  "gallery": [
+    {
+      "src": "/images/projects/real-estate-hdr-fusion/1.png",
+      "alt": "Upload interface",
+      "caption": "Upload multiple bracketed exposure images for HDR fusion processing."
+    },
+    {
+      "src": "/images/projects/real-estate-hdr-fusion/2.png",
+      "alt": "Upload interface",
+      "caption": "Upload multiple bracketed exposure images for HDR fusion processing."
+    },
+    {
+      "src": "/images/projects/real-estate-hdr-fusion/3.png",
+      "alt": "Editor interface",
+      "caption": "Canva-style interface with sidebar controls and agent-based processing options."
+    }
+  ],
+  "featured": true
+},
+{
+  "id": "17",
+  "slug": "proposal-generate-rag",
+  "title": "Proposal Generate",
+  "year": "2025",
+  "role": "Full Stack Developer",
+  "timeline": "3–4 Weeks",
+  "focus": "Retrieval-Augmented Generation & Knowledge Systems",
+  "impact": "Reduced proposal drafting time by leveraging historical data for fast, consistent, and context-grounded responses",
+  "description": "An AI-powered proposal generation system that uses retrieval-augmented generation (RAG) to draft client-ready proposals based on historical proposal data.",
+  "challenge": "Proposal creation is often repetitive, time-consuming, and inconsistent across teams, with valuable historical knowledge remaining underutilized.",
+  "approach": "Designed a RAG-based system that converts historical proposals into a searchable knowledge base using embeddings and vector similarity, ensuring responses are grounded in prior data.",
+  "solution": "Built a full-stack application using Next.js, Express, and PostgreSQL with vector search, integrating local embedding generation and Groq-based LLM inference to produce context-aware proposal drafts.",
+  "features": [
+    "Proposal knowledge base ingestion via API",
+    "Semantic similarity search over stored proposals",
+    "AI-generated proposal drafting grounded in retrieved context",
+    "Relevance scoring and ranking of retrieved proposals",
+    "Similarity thresholding to reduce weak or ungrounded responses",
+    "Automatic embedding generation during proposal ingestion",
+    "Automatic vector search and response generation on each query",
+    "Returns generated proposal along with supporting source records",
+    "Simple UI for requirement input and output review"
+  ],
+  "tags": [
+    "RAG",
+    "Knowledge Systems",
+    "LLM Systems",
+    "Vector Search",
+    "Embeddings",
+    "PostgreSQL",
+    "Next.js",
+    "TypeScript"
+  ],
+  "stack": [
+    "Next.js 16",
+    "React 19",
+    "Tailwind CSS 4",
+    "Node.js",
+    "Express 5",
+    "TypeScript",
+    "PostgreSQL",
+    "Groq API",
+    "Transformers (Embeddings)"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/proposal-generate-rag-based",
+  "thumbnail": "/images/projects/proposal-generate/Thumbnail_Proposal_Generator_2.png",
+  "gallery": [
+    {
+      "src": "/images/projects/proposal-generate/1.png",
+      "alt": "Input interface",
+      "caption": "User interface for entering project requirements and initiating proposal generation."
+    },
+    {
+      "src": "/images/projects/proposal-generate/2.png",
+      "alt": "Input interface",
+      "caption": "User interface for entering project requirements and initiating proposal generation."
+    },
+    {
+      "src": "/images/projects/proposal-generate/3.png",
+      "alt": "Generated proposal",
+      "caption": "AI-generated proposal draft grounded in retrieved historical data."
+    }
+  ],
+  "featured": true
+},
+{
+  "id": "18",
+  "slug": "ai-image-studio",
+  "title": "AI Image Studio",
+  "year": "",
+  "role": "AI / Full Stack Developer",
+  "timeline": "",
+  "focus": "Local Generative AI Platform",
+  "impact": "Enabled private, local AI image generation and editing without cloud dependency",
+  "description": "A local, browser-based AI image generation and editing platform that runs entirely on user hardware, enabling text-to-image generation, image transformation, and upscaling with full privacy.",
+  "challenge": "Providing AI image generation capabilities without relying on cloud services, ensuring privacy, no usage limits, and support across different hardware configurations.",
+  "approach": "Built a self-hosted system that runs locally with support for multiple hardware types and integrates image generation, editing, and processing capabilities into a single interface.",
+  "solution": "Developed a browser-based interface with backend support for running AI models locally, enabling generation, transformation, inpainting, and upscaling of images while managing resources automatically.",
+  "features": [
+    "Text-to-image generation",
+    "Image-to-image transformation",
+    "Inpainting for editing specific areas",
+    "AI-powered image upscaling",
+    "Batch image generation",
+    "Live preview during image generation",
+    "Runs fully on local machine without cloud dependency",
+    "Supports GPU (CUDA, ROCm, MPS) and CPU setups",
+    "Automatic memory management based on hardware"
+  ],
+  "tags": [
+    "Generative AI",
+    "Computer Vision",
+    "Image Processing",
+    "Local AI",
+    "Self-Hosted"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Gradio",
+    "Transformers"
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/apsinghrana100/ai-image-studio",
+  "thumbnail": "/images/projects/ai-image-studio/Thumbnail_ai_image_studio.png",
+  "gallery": [
+    {
+      "src": "/images/projects/ai-image-studio/5.png",
+      "alt": "Text to image",
+      "caption": "Generating images from text prompts."
+    },
+    {
+      "src": "/images/projects/ai-image-studio/1.png",
+      "alt": "Text to image",
+      "caption": "Generating images from text prompts."
+    },
+    {
+      "src": "/images/projects/ai-image-studio/2.png",
+      "alt": "Text to image",
+      "caption": "Generating images from text prompts."
+    },
+    {
+      "src": "/images/projects/ai-image-studio/3.png",
+      "alt": "Image editing",
+      "caption": "Image-to-image transformation and inpainting."
+    },
+    {
+      "src": "/images/projects/ai-image-studio/4.png",
+      "alt": "Upscaling",
+      "caption": "AI-powered image upscaling and enhancement."
+    }
+  ],
+
+  "featured": true
+}
+]

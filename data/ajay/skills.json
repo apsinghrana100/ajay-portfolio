@@ -1,0 +1,32 @@
+{
+  "frontend": [
+    { "name": "React.js", "url": "https://thesvg.org/icons/react/default.svg" },
+    { "name": "JavaScript", "url": "https://thesvg.org/icons/javascript/default.svg" },
+    { "name": "TypeScript", "url": "https://thesvg.org/icons/typescript/default.svg" },
+    { "name": "CSS", "url": "https://thesvg.org/icons/css3/default.svg" },
+    { "name": "Material UI", "url": "https://thesvg.org/icons/material-ui/default.svg" },
+    { "name": "Styled Components", "url": "https://thesvg.org/icons/styledcomponents/default.svg" }
+  ],
+  "backend": [
+    { "name": "Node.js", "url": "https://thesvg.org/icons/nodedotjs/default.svg" },
+    { "name": "Express.js", "url": "https://thesvg.org/icons/expressdotjs/default.svg" },
+    { "name": "C/C++", "url": "https://thesvg.org/icons/cplusplus/default.svg" },
+    { "name": "Java", "url": "https://thesvg.org/icons/java/default.svg" },
+    { "name": "SQL", "url": "https://thesvg.org/icons/mysql/default.svg" },
+    { "name": "MongoDB", "url": "https://thesvg.org/icons/mongodb/default.svg" },
+    { "name": "Sequelize", "url": "https://thesvg.org/icons/sequelize/default.svg" }
+  ],
+  "deployment": [
+    { "name": "Git", "url": "https://thesvg.org/icons/git/default.svg" },
+    { "name": "Docker", "url": "https://thesvg.org/icons/docker/default.svg" },
+    { "name": "Kubernetes", "url": "https://thesvg.org/icons/kubernetes/default.svg" },
+    { "name": "AWS (S3, EC2)", "url": "https://thesvg.org/icons/aws/default.svg" }
+  ],
+  "ai": [],
+  "tools": [
+    { "name": "Postman", "url": "https://thesvg.org/icons/postman/default.svg" },
+    { "name": "Redux Toolkit", "url": "https://thesvg.org/icons/redux/default.svg" },
+    { "name": "Socket.io", "url": "https://thesvg.org/icons/socketdotio/default.svg" },
+    { "name": "Swagger", "url": "https://thesvg.org/icons/swagger/default.svg" }
+  ]
+}

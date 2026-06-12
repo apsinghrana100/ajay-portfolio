@@ -1,0 +1,153 @@
+@import "tailwindcss";
+
+/* ────────────────────────────────────────────────────────
+   DESIGN SYSTEM — Obsidian Monochrome + Cyber-Amber
+   ──────────────────────────────────────────────────────── */
+
+:root {
+  --bg-void: #030303;
+  --bg-obsidian: #0B0B0F;
+  --bg-card: #111114;
+  --bg-card-hover: #161619;
+
+  --text-primary: #F5F5F7;
+  --text-muted: #8E8E93;
+  --text-dim: #48484A;
+
+  --accent: #FFB000;
+  --accent-subtle: rgba(255, 176, 0, 0.08);
+
+  --border-subtle: rgba(255, 255, 255, 0.04);
+  --border-hover: rgba(255, 255, 255, 0.08);
+  --border-active: rgba(255, 255, 255, 0.12);
+}
+
+@theme inline {
+  --color-bg-void: var(--bg-void);
+  --color-bg-obsidian: var(--bg-obsidian);
+  --color-bg-card: var(--bg-card);
+  --color-bg-card-hover: var(--bg-card-hover);
+  --color-text-primary: var(--text-primary);
+  --color-text-muted: var(--text-muted);
+  --color-text-dim: var(--text-dim);
+  --color-accent: var(--accent);
+  --color-accent-subtle: var(--accent-subtle);
+  --color-border-subtle: var(--border-subtle);
+  --color-border-hover: var(--border-hover);
+  --color-border-active: var(--border-active);
+  --font-sans: var(--font-sans-next);
+  --font-display: var(--font-display-next);
+}
+
+/* ── Base ────────────────────────────────────────────── */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: var(--bg-void);
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  background: var(--bg-void);
+  color: var(--text-primary);
+  font-family:
+    var(--font-sans),
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: rgba(255, 176, 0, 0.2);
+  color: var(--text-primary);
+}
+
+/* ── Interactive defaults ────────────────────────────── */
+
+a, button, input, textarea {
+  transition:
+    color 200ms ease,
+    background-color 200ms ease,
+    border-color 200ms ease,
+    opacity 200ms ease,
+    transform 200ms ease;
+}
+
+button, input, textarea {
+  font: inherit;
+}
+
+img {
+  display: block;
+}
+
+/* ── Layout ──────────────────────────────────────────── */
+
+.container-frame {
+  margin-inline: auto;
+  width: 100%;
+  max-width: 72rem;
+  padding-inline: 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .container-frame {
+    padding-inline: 2rem;
+  }
+}
+
+/* ── Utility classes ─────────────────────────────────── */
+
+.accent-line {
+  width: 48px;
+  height: 2px;
+  background: var(--accent);
+}
+
+.text-gradient-accent {
+  background: linear-gradient(135deg, var(--accent), #FF8C00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Hide default cursor on desktop when custom cursor is active */
+@media (pointer: fine) {
+  .cursor-none,
+  .cursor-none * {
+    cursor: none !important;
+  }
+}
+
+.logo-invert {
+  filter: invert(1);
+}
+
+/* ── Scrollbar ───────────────────────────────────────── */
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.12);
+}

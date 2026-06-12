@@ -1,0 +1,38 @@
+{
+  "name": "Ajay Singh",
+  "role": "Node.js Developer",
+  "tagline": [
+    "Backend Development",
+    "REST APIs & Cloud Services",
+    "Scalable Web Architectures"
+  ],
+  "heroTitle": [
+    "Node.js Developer",
+    "building scalable",
+    "backend systems."
+  ],
+  "heroIntro": "I am an experienced Node.js Developer with hands-on experience in backend development, REST APIs, and cloud services.",
+  "bio": "I have worked extensively with Node.js, Express, React, and various databases like MongoDB and SQL. I have experience collaborating in teams using Git, Docker, and AWS, aiming to deliver robust and dynamic user experiences.",
+  "email": "apsinghrana100@gmail.com",
+  "location": "Surat, India",
+  "resumeUrl": "/resume.pdf",
+  "aboutStatement": "Experienced Node.js Developer with hands-on experience in backend development, REST APIs, and cloud services. Seeking challenging freelance or full-time opportunities.",
+  "stats": [
+    {
+      "label": "Industry Experience",
+      "value": "2+ Years"
+    },
+    {
+      "label": "Projects Completed",
+      "value": "10+"
+    },
+    {
+      "label": "Technologies",
+      "value": "15+"
+    }
+  ],
+  "social": {
+    "github": "https://github.com/apsinghrana100",
+    "linkedin": "https://www.linkedin.com/in/ajay-pratap-singh-883844153" 
+  }
+}
