@@ -126,7 +126,7 @@ export function getSiteData(hostname?: string, userParam?: string) {
   // Return template statically on client side to avoid compilation issues
   if (!fs || !path) {
     return {
-      info: { ...templateInfo, resumeUrl: `/api/resume?user=${user}` },
+      info: { ...templateInfo, resumeUrl: `/resume` },
       projects: templateProjects,
       skills: templateSkills,
       experience: templateExperience,
@@ -149,7 +149,7 @@ export function getSiteData(hostname?: string, userParam?: string) {
     };
 
     const info = loadJSON("info.json") as SiteInfo;
-    info.resumeUrl = `/api/resume?user=${user}`;
+    info.resumeUrl = `/resume`;
 
     return {
       info,
@@ -162,7 +162,7 @@ export function getSiteData(hostname?: string, userParam?: string) {
     console.error(`Error dynamically loading portfolio data for user "${user}":`, error);
     
     return {
-      info: { ...templateInfo, resumeUrl: `/api/resume?user=${user}` },
+      info: { ...templateInfo, resumeUrl: `/resume` },
       projects: templateProjects,
       skills: templateSkills,
       experience: templateExperience,

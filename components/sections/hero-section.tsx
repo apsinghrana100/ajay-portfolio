@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ArrowDownRight, Download } from "lucide-react";
+import { ArrowDownRight, FileText } from "lucide-react";
 import Link from "next/link";
 
 import { Magnetic } from "@/components/shared/magnetic";
@@ -100,11 +100,11 @@ export function HeroSection({ info }: { info: SiteInfo }) {
             <Magnetic distance={0.12}>
               <Link
                 href={info.resumeUrl}
-                download
+                target="_blank"
                 className="inline-flex items-center gap-2 border border-border-subtle px-6 py-3 text-sm font-semibold uppercase tracking-wider text-text-primary transition-all hover:border-accent/40 hover:text-accent active:scale-[0.97]"
               >
                 Resume
-                <Download className="size-4" />
+                <FileText className="size-4" />
               </Link>
             </Magnetic>
           </motion.div>
