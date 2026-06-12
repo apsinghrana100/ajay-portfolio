@@ -1,23 +1,23 @@
 {
   "name": "Ajay Singh",
-  "role": "Node.js Developer",
+  "role": "Full Stack Developer",
   "tagline": [
-    "Backend Development",
-    "REST APIs & Cloud Services",
-    "Scalable Web Architectures"
+    "Full Stack Development",
+    "Scalable Architecture",
+    "Modern Web Applications"
   ],
   "heroTitle": [
-    "Node.js Developer",
+    "Full Stack Developer",
     "building scalable",
-    "backend systems."
+    "web applications."
   ],
-  "heroIntro": "I am an experienced Node.js Developer with hands-on experience in backend development, REST APIs, and cloud services.",
+  "heroIntro": "I am an experienced Full Stack Developer with hands-on expertise in frontend interfaces, backend systems, and cloud architecture.",
   "bio": "I have worked extensively with Node.js, Express, React, and various databases like MongoDB and SQL. I have experience collaborating in teams using Git, Docker, and AWS, aiming to deliver robust and dynamic user experiences.",
   "email": "apsinghrana100@gmail.com",
   "phone": "+91 7229071956",
   "location": "Surat, India",
   "resumeUrl": "/resume.pdf",
-  "aboutStatement": "Experienced Node.js Developer with hands-on experience in backend development, REST APIs, and cloud services. Seeking challenging freelance or full-time opportunities.",
+  "aboutStatement": "Experienced Full Stack Developer with a passion for building robust backend APIs, dynamic frontend interfaces, and seamless user experiences. Seeking challenging freelance or full-time opportunities.",
   "stats": [
     {
       "label": "Industry Experience",
