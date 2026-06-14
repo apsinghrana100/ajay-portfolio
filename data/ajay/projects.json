@@ -146,7 +146,7 @@
       "TypeScript"
     ],
     "liveUrl": "",
-    "githubUrl": "https://github.com/apsinghrana100/ai-customer-support",
+    "githubUrl": "https://github.com/apsinghrana100/ai-customer-support.git",
     "thumbnail": "/images/projects/ai-customer-support/Thumbnail_Customer_Support.png",
     "gallery": [],
     "featured": true
@@ -247,7 +247,7 @@
       "Zod"
     ],
     "liveUrl": "",
-    "githubUrl": "https://github.com/apsinghrana100/AI-voice-chat",
+    "githubUrl": "https://github.com/apsinghrana100/Ai-live-communication.git",
     "thumbnail": "/images/projects/ai-voice-chat/Thumbnail_Voice_Chat_2.png",
     "gallery": [],
     "featured": true
@@ -300,7 +300,7 @@
     "tags": ["AI", "Computer Vision", "Backend"],
     "stack": ["Python", "TensorFlow", "Node.js", "AWS S3"],
     "liveUrl": "",
-    "githubUrl": "https://github.com/apsinghrana100/ai-image-generator",
+    "githubUrl": "https://github.com/apsinghrana100/fusion_hdr_image.git",
     "thumbnail": "/images/projects/real-estate-hdr-fusion/1.png",
     "gallery": [],
     "featured": true
